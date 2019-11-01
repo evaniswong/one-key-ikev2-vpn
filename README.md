@@ -1,12 +1,5 @@
-diff -Naur strongswan-5.6.0-orig/src/libstrongswan/utils/utils/memory.h strongswan-5.6.0/src/libstrongswan/utils/utils/memory.h
---- strongswan-5.6.0-orig/src/libstrongswan/utils/utils/memory.h    2017-08-14 02:48:41.000000000 -0400
-+++ strongswan-5.6.0/src/libstrongswan/utils/utils/memory.h    2017-09-12 01:15:29.690527667 -0400
-@@ -14,6 +14,8 @@
-  * for more details.
-  */
+IOS 添加
 
-+#include <stdint.h> /* for uintptr_t */
-+
- /**
-  * @defgroup memory_i memory
-  * @{ @ingroup utils_i
+IKEv2
+服务器loine1.ddns.net
+远程ID loine1.ddns.net
